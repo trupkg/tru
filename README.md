@@ -1,0 +1,2 @@
+# tru
+MacOS package manager.
