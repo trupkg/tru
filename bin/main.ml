@@ -1,0 +1,2 @@
+let () =
+  Tru.Run.run ()
